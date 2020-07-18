@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: arial;
+}
+
+.text {
+    height: 250px;
+
+    font-size: 90px;
+    text-transform: capitalize;
+    text-align: center;
+    line-height: 250px;
+    text-shadow: 10px 10px 12px black;
+}
+
+.c_body {
+    height: 300px;
+    background-color: black;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.flaming {
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 150px;
+    text-shadow: 4px -4px 2px #c28f5a, 10px -8px 6px #853921, 14px -12px 10px #6a3221, 16px -14px 19px #41261d;
+    box-sizing: border-box;
+    float: left;
+}
+
+.ghost {
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    color: #989898;
+    text-transform: capitalize;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 150px;
+    text-shadow: 12px -12px 4px #989898;
+    box-sizing: border-box;
+    float: left;
+}
+
+.vegas {
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 150px;
+    text-shadow: -4px -4px 2px #b5577b, -10px -8px 6px #b5577b, -14px -12px 10px #b5577b, -16px -16px 19px #b5577b,
+        4px 4px 2px #b5577b, 10px 8px 6px #b5577b, 14px 12px 10px #b5577b, 16px 16px 19px #b5577b;
+    box-sizing: border-box;
+    float: left;
+}
+.comic {
+    text-align: center;
+    width: 600px;
+    height: 150px;
+    color: #850902;
+    text-transform: capitalize;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 150px;
+    text-shadow: 4px 4px 1px #238ea7, 10px 8px 3px #238ea7, 14px 12px 8px #238ea7, 16px 14px 10px #238ea7;
+    box-sizing: border-box;
+    float: left;
+}
+
+.dracula {
+    text-align: center;
+    width: 600px;
+    height: 150px;
+    color: #92a2de;
+    text-transform: capitalize;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 150px;
+    text-shadow: 4px 4px 10px #707ba8, 10px 8px 10px #707ba8, 14px 12px 10px #707ba8, 16px 14px 20px #707ba8;
+    box-sizing: border-box;
+    float: left;
